@@ -1,1 +1,29 @@
+# 1. Môi trường ảo Python (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
 
+# 2. Bytecode & Cache của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. Cache của Jupyter Notebooks & Thư viện
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# 4. Cấu hình IDE / Trình soạn thảo (VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 5. Dữ liệu tạm hoặc dữ liệu kích thước lớn (Tùy chọn)
+# Nếu bạn không muốn push dữ liệu gốc hoặc file log lên Git:
+# data/raw/*.csv
+*.log
+
+# 6. File hệ điều hành
+.DS_Store
+Thumbs.db
