@@ -16,7 +16,7 @@ Dự án thực hành môn học về phân tích chuỗi thời gian, kiểm đ
 | 2 | [Tên TV 2] | [MSSV] | **Thành viên:** Thực hiện Bài 2 (Kiểm định ADF trên chuỗi gốc) | `02_adf_test.ipynb`, `docs/lab02_adf.md` |
 | 3 | [Tên TV 3] | [MSSV] | **Thành viên:** Thực hiện Bài 3 (Sai phân & Kiểm định lại ADF)[cite: 2] | `03_differencing.ipynb`, `docs/lab03_differencing.md` |
 | 4 | [Tên TV 4] | [MSSV] | **Thành viên:** Thực hiện Bài 4 (Phân tích biểu đồ ACF & PACF)[cite: 2] | `04_acf_pacf.ipynb`, `docs/lab04_acf_pacf.md` |
-| 5 | [Tên TV 5] | [MSSV] | **Thành viên:** Thực hiện Bài 5A (Chia tập, Fit mô hình ARIMA & Dự báo) | `05_arima_modeling.ipynb`, `reports/figures/` |
+| 5 | Nguyễn Trung Kiên | 060206010236 | **Thành viên:** Thực hiện Bài 5A (Chia tập, Fit mô hình ARIMA & Dự báo) | `05_arima_modeling.ipynb`, `reports/figures/` |
 | 6 | [Tên TV 6] | [MSSV] | **Thành viên:** Thực hiện Bài 5B (Chẩn đoán phần dư & Viết báo cáo 9 câu hỏi) | `docs/lab05_arima.md` |
 
 ---
